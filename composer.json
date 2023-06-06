@@ -24,7 +24,7 @@
     "symfony/form": "^6.2",
     "symfony/translation": "^6.2",
     "symfony/serializer": "^6.2",
-    "symfony/translation-contracts": "^3.3"
+    "symfony/translation-contracts": "^2.3"
   },
   "require-dev": {
     "dealerdirect/phpcodesniffer-composer-installer": "^v0.7.1",
